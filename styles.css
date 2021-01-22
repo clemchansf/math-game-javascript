@@ -75,7 +75,7 @@ body.overlay-is-open .overlay {
   transform: scale(1);
 }
 
-body.overlay-is-open .main-container {
+body.overlay-is-open .main-ui {
   filter: blur(4px);
 }
 
